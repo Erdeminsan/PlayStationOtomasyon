@@ -1,0 +1,13 @@
+C:\Playstation\PlayStationOtomasyon\PlayStationOtomasyon\bin\Debug\PlayStationOtomasyon.exe.config
+C:\Playstation\PlayStationOtomasyon\PlayStationOtomasyon\bin\Debug\PlayStationOtomasyon.exe
+C:\Playstation\PlayStationOtomasyon\PlayStationOtomasyon\bin\Debug\PlayStationOtomasyon.pdb
+C:\Playstation\PlayStationOtomasyon\PlayStationOtomasyon\obj\Debug\PlayStationOtomasyon.csproj.AssemblyReference.cache
+C:\Playstation\PlayStationOtomasyon\PlayStationOtomasyon\obj\Debug\PlayStationOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Playstation\PlayStationOtomasyon\PlayStationOtomasyon\obj\Debug\PlayStationOtomasyon.Form1.resources
+C:\Playstation\PlayStationOtomasyon\PlayStationOtomasyon\obj\Debug\PlayStationOtomasyon.Properties.Resources.resources
+C:\Playstation\PlayStationOtomasyon\PlayStationOtomasyon\obj\Debug\PlayStationOtomasyon.csproj.GenerateResource.cache
+C:\Playstation\PlayStationOtomasyon\PlayStationOtomasyon\obj\Debug\PlayStationOtomasyon.csproj.CoreCompileInputs.cache
+C:\Playstation\PlayStationOtomasyon\PlayStationOtomasyon\obj\Debug\PlayStationOtomasyon.exe
+C:\Playstation\PlayStationOtomasyon\PlayStationOtomasyon\obj\Debug\PlayStationOtomasyon.pdb
+C:\Playstation\PlayStationOtomasyon\PlayStationOtomasyon\obj\Debug\PlayStationOtomasyon.frmMasaKapat.resources
+C:\Playstation\PlayStationOtomasyon\PlayStationOtomasyon\obj\Debug\PlayStationOtomasyon.frmKullanici.resources
